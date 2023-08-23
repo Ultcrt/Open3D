@@ -16,6 +16,7 @@
 * Fix Python bindings for CUDA device synchronization, voxel grid saving (PR #5425)
 * Support msgpack versions without cmake
 * Fix some bad triangle generation in TriangleMesh::SimplifyQuadricDecimation
+* Support multi-threading in the RayCastingScene function to commit scene (PR #6051).
 
 ## 0.13
 
